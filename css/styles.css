@@ -569,8 +569,8 @@ a:hover {
 	background-size: cover;
 }
 .split .area-2 {
-	padding-top: 9.25rem;
-	padding-bottom: 9.75rem;
+	padding-top: 6rem;
+	padding-bottom: 9rem;
 }
 
 .split h2  {
@@ -1174,7 +1174,7 @@ a:hover {
 		height: 786px;
 	}
 	
-	.split .area-1 ,.split .area-1-a {
+	.split .area-1 ,.area-1-a {
 		height: 100%;
 		width: 50%;
 		display: inline-block;
