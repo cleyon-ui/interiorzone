@@ -1436,3 +1436,6 @@ a:hover {
 	/* end of extra pages */
 }
 /* end of min-width 1200px */
+.map{
+	filter: grayscale(100%) invert(92%) contrast(83%);
+  }
