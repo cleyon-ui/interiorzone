@@ -353,6 +353,9 @@ a:hover {
 	line-height: 1rem;
 	text-decoration: none;
 }
+.logo{
+	max-width: 50%;
+}
 
 .offcanvas-collapse {
 	position: fixed;
@@ -384,7 +387,7 @@ a:hover {
 .navbar .nav-item .nav-link {
 	padding-top: 0.625rem;
 	padding-bottom: 0.625rem;
-	color: #53575a;
+	color: #ffffff;
 	text-decoration: none;
 	transition: all 0.2s ease;
 }
@@ -1023,8 +1026,7 @@ a:hover {
 /*     Media Queries     */
 /*************************/	
 /* Min-width 768px */
-@media (min-width: 768px) {
-
+@media (min-width : 768px) {
 	/* Header */
 	.header .header-content {
 		padding-top: 15rem;
@@ -1032,7 +1034,7 @@ a:hover {
 	}
 	/* end of header */
 
-
+	
 	/* Statistics */
 	.counter .counter-cell {
 		display: inline-block;
